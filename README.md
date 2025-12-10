@@ -1,15 +1,13 @@
-# api-cliente
+# API Cliente con laravel 
 API creada en Laravel que muestra a lista de alumnos
 
-#API Cliente con laravel 
-
-##Introducción 
+## Introducción 
 
 En este proyecto se consulta una 'API' creada en la ravel de estudiantes donde en esta parte del Cliente se realizan peticiones 'GET', 'PUT', 'PUT' y 'DELETE' para mostrarlas en sus respectivas vistas.
 
-##Tecnologías
+## Tecnologías
 
-'Laravel' : framework web gratuito y de código abierto para PHP.
+' Laravel ' : framework web gratuito y de código abierto para PHP.
 
 'XAMPP' : para el uso del servidor 'web Apache' y 'MariaDB/MySQL' para  base de datos.
 
